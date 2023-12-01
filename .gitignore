@@ -1,0 +1,6 @@
+videos/*
+yamaha_code/*
+.DS_Store
+.ipynb_checkpoints/*
+*.task
+*.jpg
