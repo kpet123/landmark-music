@@ -5,4 +5,7 @@ yamaha_code/*
 *.task
 *.jpg
 *.avi
+*.key
+*.jpeg
+*.zip
 __pychache__/
